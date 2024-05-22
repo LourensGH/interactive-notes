@@ -1,11 +1,6 @@
 # InteractiveNotes
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `interactive_notes` to your list of dependencies in `mix.exs`:
+An interactive command line notes app that I created as part of my Elixir learning process.
 
 ```elixir
 def deps do
@@ -14,8 +9,3 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/interactive_notes](https://hexdocs.pm/interactive_notes).
-
